@@ -206,17 +206,6 @@ Cross-platform Employee Management System developed using React Native and Expo.
 
 ---
 
-# 🐍 Contribution Snake
-
-> **Optional:** Enable GitHub Actions later to automatically generate the snake animation.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ahmadniazi0381-dev/ahmadniazi0381-dev/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
 
 # 📫 Contact Me
 
